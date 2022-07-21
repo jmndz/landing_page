@@ -8,7 +8,7 @@ This project is about creating an entire webpage using the skills learnt in The 
 <img src="./img_github/colors_and_stuff.png" width="500"/>
 
 ## Final Outcome:
-[landing page site](https://jmndz.github.io/landing_page)
+[Live Demo](https://jmndz.github.io/landing_page)
 
 ## Thoughts:
 
